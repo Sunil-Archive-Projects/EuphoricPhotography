@@ -1,0 +1,28 @@
+# Types of Street Photography
+- Night / BW / Color
+- No People
+  - Light/Shadow
+  - Neighborhood
+  - Decay
+  - Animal
+  - Themed
+  - People Implied
+  - Architecture
+    - Abstract
+    - Entirety
+    - Artistic
+- People
+  - Architecture
+  - Light/Shadow
+  - Portraiture
+    - Posed
+    - Environmental
+    - Snatched
+  - Captured Life
+    - Mundane
+    - Interesting
+  - Story
+    - juxtaposition
+    - clever/whimsical
+    - humorous
+    - the serendipitous
