@@ -1,0 +1,1 @@
+[Camera + Lens combination photos]https://explorecams.com/photos/pair/canon-eos-6d=yongnuo-yn-35mm-f-2
